@@ -1,1 +1,14 @@
+Website Ekstraksi Struk Belanja ke Teks dengan Integrasi Database dan Otomatisasi Google Sheets Melalui n8n
 
+Website ini memungkinkan pengguna untuk mencatat pengeluaran harian dengan cara diketik manual ataupun lewat foto struk belanjaan dibantu oleh AI
+
+Daftar Anggota Kelompok 7:
+- Jonathan (221110261)
+- Vanness Hong (221110311)
+- Davin Pangestu  (221111653)
+
+Link Demo Program: https://mikroskilacid-my.sharepoint.com/:v:/g/personal/221110261_students_mikroskil_ac_id/Ec261bvgOIBKmM_gMlcSwqMBdkPjOaJpEdOx4pJtL8IOkA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=4T0pRv
+
+Petunjuk instalasi dan cara menjalankan proyek di lingkungan lokal: 
+- untuk n8n localhost dengan port 5678:5678:  saya menggunakan docker desktop 
+- untuk menjalankan program : npm install terlebih dahulu, kemudian npm run dev
